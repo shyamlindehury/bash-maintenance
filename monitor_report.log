@@ -1,0 +1,28 @@
+===== LOG MONITOR STARTED at Fri Nov  7 17:16:22 UTC 2025 =====
+[INFO] Scanning log files in /data/test_src ...
+[ERROR] Found the following errors:
+ERROR: Something went wrong
+[WARN] Found the following warnings:
+WARN: Disk space running low
+===== LOG MONITOR FINISHED at Fri Nov  7 17:16:22 UTC 2025 =====
+===== LOG MONITOR STARTED at Fri Nov  7 17:33:26 UTC 2025 =====
+[INFO] Scanning log files in /data/test_src ...
+[ERROR] Found the following errors:
+ERROR: Something went wrong
+[WARN] Found the following warnings:
+WARN: Disk space running low
+===== LOG MONITOR FINISHED at Fri Nov  7 17:33:27 UTC 2025 =====
+===== LOG MONITOR STARTED at Sat Nov  8 10:45:30 UTC 2025 =====
+[INFO] Scanning log files in /data/test_src ...
+[ERROR] Found the following errors:
+ERROR: Something went wrong
+[WARN] Found the following warnings:
+WARN: Disk space running low
+===== LOG MONITOR FINISHED at Sat Nov  8 10:45:30 UTC 2025 =====
+===== LOG MONITOR STARTED at Sat Nov  8 11:11:10 UTC 2025 =====
+[INFO] Scanning log files in /data/test_src ...
+[ERROR] Found the following errors:
+ERROR: Something went wrong
+[WARN] Found the following warnings:
+WARN: Disk space running low
+===== LOG MONITOR FINISHED at Sat Nov  8 11:11:10 UTC 2025 =====
